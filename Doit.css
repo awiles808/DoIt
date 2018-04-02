@@ -1,0 +1,31 @@
+header{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+body{
+    background-image: url("https://i.imgur.com/GNrvmCw.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+form{
+    text-align: center;
+    font-family: 'Questrial', sans-serif;
+    color: white;
+
+}
+
+
+li{
+    text-align: center;
+    list-style-position: inside;
+    border: 1px solid black;
+    margin: 10px 10px 10px 10px;
+    background-color: black;
+    width: wrap;
+    font-family: 'Questrial', sans-serif;
+    color: white;
+    font-size: 35px;
+}
